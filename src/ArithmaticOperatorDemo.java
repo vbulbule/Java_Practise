@@ -1,6 +1,6 @@
 import java.net.Socket;
 
-public class OperatorDemo {
+public class ArithmaticOperatorDemo {
     
     public static void main(String[] args) {
         int i,j,k;
